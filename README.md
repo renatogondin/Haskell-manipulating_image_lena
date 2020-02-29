@@ -1,6 +1,7 @@
 # Haskell-manipulating_image_lena
 
 This is a simple project where you pick a simple ppm image full of pixels and create some new images.
+You pick a Lena.ppm image and manipulate the pixels having different shapes, colours and inverting.
 
 
 
